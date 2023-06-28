@@ -23,7 +23,7 @@ public class MathUtilitiAdvancedTest {
                                {1, 1},
                                {2, 2},
                                {5, 120},
-                               {6, 7200}    
+                               {6, 720}    
                               };
         return testData;
     }
